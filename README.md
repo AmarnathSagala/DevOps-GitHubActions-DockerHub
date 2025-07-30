@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hey there! 👋
 
 Thank you for staying tuned and enthusiastic! We’re thrilled to announce that the Agentic AI & DevOps Meetup has been rescheduled, and we can’t wait to see you there!
@@ -28,3 +29,7 @@ We appreciate your patience and excitement! Don’t miss this opportunity to lev
 
 Warm regards,
 Team Agentic AI & DevOps
+=======
+# DevOps-GitHubActions-DockerHub
+This repo contains the workflows and website that builds the docker image and pushes to dockerhub as well.
+>>>>>>> 2c6035bdfa8fc2db413792a21556dbea63457d88
