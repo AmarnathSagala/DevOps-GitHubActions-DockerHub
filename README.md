@@ -1,6 +1,5 @@
 <<<<<<< HEAD
-Hey there! 👋
-
+Hey there! 👋 -  There is an interesting session happening around this weekend !
 Thank you for staying tuned and enthusiastic! We’re thrilled to announce that the Agentic AI & DevOps Meetup has been rescheduled, and we can’t wait to see you there!
 
 🎯 UNLOCK YOUR AI SUPERPOWER
